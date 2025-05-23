@@ -34,9 +34,9 @@ def show_main_options(chat_id):
     markup.add("/simple", "/script")
     bot.send_message(
         chat_id,
-        "⏩ Safidio aloha ny fomba tianao:
-➡️ /simple — Torolalana tsotra
-➡️ /script — Kaody feno amin'ny Python",
+        "⏩ Safidio aloha ny fomba tianao:"
+"➡️ /simple — Torolalana tsotra"
+"➡️ /script — Kaody feno amin'ny Python",
         reply_markup=markup
     )
 
