@@ -17,7 +17,6 @@ def welcome(message):
             chat_id,
             "Faly miarahaba anao!"
 
-"
             "🔒 Ampidiro azafady ny teny miafina: **iantsafybot12**"
         )
     else:
