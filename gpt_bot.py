@@ -15,7 +15,7 @@ def welcome(message):
     if chat_id not in confirmed_users:
         bot.send_message(
             chat_id,
-            "Faly miarahaba anao!
+            "Faly miarahaba anao!"
 
 "
             "🔒 Ampidiro azafady ny teny miafina: **iantsafybot12**"
